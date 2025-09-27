@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
 }
 
 // Configuration
-const API_KEY = 'YOUR_GOOGLE_PAGESPEED_API_KEY'; // Replace with your actual API key
+const API_KEY = 'AIzaSyAuQEOo5F3pYiXgUpzXfhEU57NhFU2shJ8'; // Replace with your actual API key
 const API_BASE_URL = 'https://www.googleapis.com/pagespeedonline/v5/runPagespeed';
 
 // Get input data
